@@ -1,2 +1,1 @@
-# apex-hunt
-APEX — Ab Creative World hunting TCG. Playable GitHub Pages sandbox.
+APEX hunting TCG. Play: https://abbytes.github.io/apex-hunt/
